@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    align-self: center;
+}
+
+img {
+    border: .5rem solid #113152;
+    border-radius: .5rem;
+}
