@@ -1,0 +1,80 @@
+[2021-10-28 00:48:50] [ ERROR] [TestLog:19] Erro
+IdadeNegativa
+	at Tigre.verificarAtributos(Tigre.java:19)
+	at TestLog.main(TestLog.java:16)
+[2021-10-28 00:54:58] [ INFO ] [TestLog:12] Começamos nosso método MAIN
+[2021-10-28 00:54:58] [ ERROR] [TestLog:20] Erro
+IdadeNegativa
+	at Tigre.verificarAtributos(Tigre.java:19)
+	at TestLog.main(TestLog.java:17)
+[2021-10-28 00:55:13] [ INFO ] [TestLog:12] Começamos nosso método MAIN
+[2021-10-28 00:55:13] [ ERROR] [TestLog:20] Erro
+IdadeNegativa
+	at Tigre.verificarAtributos(Tigre.java:19)
+	at TestLog.main(TestLog.java:17)
+[2021-10-28 00:55:22] [ ERROR] [TestLog:20] Erro
+IdadeNegativa
+	at Tigre.verificarAtributos(Tigre.java:19)
+	at TestLog.main(TestLog.java:17)
+[2021-10-28 00:55:31] [ ERROR] [TestLog:20] Erro
+IdadeNegativa
+	at Tigre.verificarAtributos(Tigre.java:19)
+	at TestLog.main(TestLog.java:17)
+[2021-10-28 00:55:36] [ INFO ] [TestLog:12] Começamos nosso método MAIN
+[2021-10-28 00:55:36] [ ERROR] [TestLog:20] Erro
+IdadeNegativa
+	at Tigre.verificarAtributos(Tigre.java:19)
+	at TestLog.main(TestLog.java:17)
+[2021-10-28 00:57:07] [ INFO ] [TestLog:12] Começamos nosso método MAIN
+[2021-10-28 00:57:07] [ ERROR] [TestLog:20] Erro
+IdadeNegativa
+	at Tigre.verificarAtributos(Tigre.java:19)
+	at TestLog.main(TestLog.java:17)
+[2021-10-28 00:58:23] [ INFO ] [TestLog:12] Começamos nosso método MAIN
+[2021-10-28 00:58:23] [ ERROR] [TestLog:20] Erro
+IdadeNegativa
+	at Tigre.verificarAtributos(Tigre.java:19)
+	at TestLog.main(TestLog.java:18)
+[2021-10-28 00:59:34] [ INFO ] [TestLog:12] Começamos nosso método MAIN
+[2021-10-28 00:59:34] [ ERROR] [TestLog:20] A idade não pode ser negativa
+IdadeNegativa
+	at Tigre.verificarAtributos(Tigre.java:19)
+	at TestLog.main(TestLog.java:18)
+[2021-10-28 01:00:21] [ ERROR] [TestLog:23] A idade não pode ser negativa
+IdadeNegativa
+	at Tigre.verificarAtributos(Tigre.java:19)
+	at TestLog.main(TestLog.java:20)
+[2021-10-28 01:01:08] [ ERROR] [TestLog:23] A idade não pode ser negativa
+IdadeNegativa
+	at Tigre.verificarAtributos(Tigre.java:19)
+	at TestLog.main(TestLog.java:20)
+[2021-10-28 01:01:47] [ ERROR] [TestLog:23] A idade não pode ser negativa
+IdadeNegativa
+	at Tigre.verificarAtributos(Tigre.java:19)
+	at TestLog.main(TestLog.java:20)
+[2021-10-28 01:03:26] [ INFO ] [TestLog:15] 
+O tigre Tigrão está correndo
+[2021-10-28 01:03:26] [ ERROR] [TestLog:22] A idade não pode ser negativa
+IdadeNegativa
+	at Tigre.verificarAtributos(Tigre.java:19)
+	at TestLog.main(TestLog.java:19)
+[2021-10-28 01:06:13] [ INFO ] [TestLog:12] 
+O tigre Tigrão está correndo
+[2021-10-28 01:06:13] [ INFO ] [TestLog:13] 
+O tigre Tchutchuca está correndo
+[2021-10-28 01:06:13] [ ERROR] [TestLog:19] A idade não pode ser negativa
+IdadeNegativa
+	at Tigre.verificarAtributos(Tigre.java:19)
+	at TestLog.main(TestLog.java:17)
+[2021-10-28 01:06:50] [ INFO ] [TestLog:12] O tigre Tigrão está correndo
+[2021-10-28 01:06:50] [ INFO ] [TestLog:13] O tigre Tchutchuca está correndo
+[2021-10-28 01:06:50] [ ERROR] [TestLog:19] A idade não pode ser negativa
+IdadeNegativa
+	at Tigre.verificarAtributos(Tigre.java:19)
+	at TestLog.main(TestLog.java:17)
+[2021-10-28 01:09:06] [ INFO ] [TestLog:12] Tigre(sa) Tigrão está correndo
+[2021-10-28 01:09:06] [ INFO ] [TestLog:13] Tigre(sa) Tchutchuca está correndo
+[2021-10-28 01:09:06] [ ERROR] [TestLog:19] A idade não pode ser negativa
+IdadeNegativa: A idade de Tchutchuca está incorreta
+	at Tigre.verificarAtributos(Tigre.java:19)
+	at TestLog.main(TestLog.java:17)
