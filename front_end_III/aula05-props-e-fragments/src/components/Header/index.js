@@ -7,9 +7,9 @@ const Header = (props) => {
             <p>Fábrica de Memes</p>
             <nav>
                 <ul>
-                    <li>Home</li>
-                    <li>Sobre</li>
-                    <li>Contato</li>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Sobre</a></li>
+                    <li><a href="https://github.com/pedroisb/" target="_blank">Contato</a></li>
                 </ul>
             </nav>
         </header>

@@ -9,7 +9,7 @@ function App() {
       <Header />
       <main>
         <Banner>
-          <img src="C:\Users\Pedro Brito\Desktop\CTD_Ano01_Bimestre03\front_end_III\aula05-props-e-fragments\src\components\img\background.jpg" />
+          <img src="https://cdn.hipwallpaper.com/i/47/1/kehZMf.jpg" alt="" />
           <button></button>
           <h1>TITULO</h1>
           <p>TEXTO</p>
